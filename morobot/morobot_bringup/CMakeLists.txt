@@ -16,7 +16,7 @@ find_package(catkin REQUIRED COMPONENTS
   nav_msgs
   geometry_msgs
   tf
-  omo_r1_description
+  morobot_description
   message_generation
 )
 
